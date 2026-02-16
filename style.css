@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+.mini{
+    height: 4vh;
+    width: 4vh;
+    border-radius: 100%;
+    font-size: x-large;
+}
+.add{
+    background-color: green;
+}
+.substract{
+    background-color: red;
+}
+
+.OptionsButton{
+    width: 20vh;
+    height: 10vh;
+    margin-left: 1vh;
+    background-color: rgb(147, 223, 147);
+    font-size: 5vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.OptionsButton:active{
+    background-color: rgb(95, 147, 95);
+}
