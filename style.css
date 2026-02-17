@@ -25,3 +25,17 @@ body{
 .OptionsButton:active{
     background-color: rgb(95, 147, 95);
 }
+.Card{
+    background-color: rgb(165, 222, 252);
+    height: 9vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2vh;
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center;     /* vertical */
+    border: 0.2vw solid black;
+    margin-top: 0.2vw;
+}
+#controlArea{
+    width: 27vh;
+}
